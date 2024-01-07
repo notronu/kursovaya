@@ -27,7 +27,7 @@ public class Main {
         System.out.println("------------");
         printFullNames();
         System.out.println("------------");
-        moreSalary(35);
+        moreSalary(40);
         System.out.println("------------");
         printEmployees();
         System.out.println("------------");
@@ -39,7 +39,7 @@ public class Main {
         System.out.println("------------");
         System.out.println(averageSalaryOfDepartment(1));
         System.out.println("------------");
-        moreSalaryOfDepartment(20, 3);
+        moreSalaryOfDepartment(25, 3);
         System.out.println("------------");
         printEmployeesOfDepartment(3);
         System.out.println("------------");
